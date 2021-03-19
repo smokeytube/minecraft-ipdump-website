@@ -46,6 +46,22 @@ $visiorstring = "You are visitor number $counterVal";
 	<!-- Animation Css -->
 	<link rel="stylesheet" href="css/animate.css">
 
+	<meta name="title" content="We do a lil trollin'">
+        <meta name="description" content="">
+        <meta name="theme-color" content="#526935">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <!-- Open Graph -->
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://wedoaliltrollin.com/">
+        <meta property="og:title" content="Minecraft Server IP Dump">
+        <meta property="og:description" content="">
+        <meta property="og:image" content="https://wedoaliltrollin.com/images/trollminecraft.png">
+       <!-- Twitter -->
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="https://wedoaliltrollin.com/">
+        <meta property="twitter:title" content="Minecraft Server IP Dump">
+        <meta property="twitter:description" content="">
+        <meta property="twitter:image" content="https://wedoaliltrollin.com/images/trollminecraft.png">
 
 </head>
 <body>
