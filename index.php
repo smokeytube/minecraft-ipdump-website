@@ -106,20 +106,9 @@ $visiorstring = "You are visitor number $counterVal";
 		<?php
 		echo $visiorstring;
 		?>
-		<div style="padding: 60px;"></div>
 		<div class="main_heading">
-		<h1>Dedicated Discord Server</h1>
-		<div  class="text-center"><span class="underline"></span></div>
-		<div style="padding: 10px;"></div>
-		<iframe src="https://discord.com/widget?id=821857388620808242&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-		<div style="padding: 10px;"></div>
-		<a href="https://discord.gg/XGZV8JuZeS">Invite</a>
-		<div style="padding: 50px;"></div>
-		<i>Created Thursday, March 17 2021 | </i>
-		<i>Created by Zach D.</i>
-		<p>
-		<h5>Contact me on discord at ZachD#0132 for any questions comments or concerns</h5>
-		</p>
+		<div style="padding: 11%;"></div>
+		<p>New IPs will be added soon. Please be patient.</p>
 	</div><!-- End row -->
 </div><!-- End Container -->
 

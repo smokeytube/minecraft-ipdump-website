@@ -102,12 +102,7 @@
 			</div><!-- End col-md-3-->
 			<div style='text-align: center;'>
 			<div style="padding: 31%;"></div>
-			<p>New IPs will be added daily. Please be patient.</p>
-			<i>Created Thursday, March 17 2021 | </i>
-			<i>Created by Zach D.</i>
-			<p>
-			<h5>Contact me on discord at ZachD#0132 for any questions comments or concerns</h5>
-			</p>
+			<p>New IPs will be added soon. Please be patient</p>
 			</div>
 		</div><!-- End row -->
 	</div><!-- End Container -->
