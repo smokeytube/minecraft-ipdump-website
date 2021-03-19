@@ -23,6 +23,23 @@
 	<!-- Animation Css -->
 	<link rel="stylesheet" href="css/animate.css">
 
+	<meta name="title" content="Minecraft Server IPs">
+        <meta name="description" content="">
+        <meta name="theme-color" content="#526935">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <!-- Open Graph -->
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://wedoaliltrollin.com/">
+        <meta property="og:title" content="Minecraft Server IPs">
+        <meta property="og:description" content="">
+        <meta property="og:image" content="https://wedoaliltrollin.com/images/iplists.png">
+       <!-- Twitter -->
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="https://wedoaliltrollin.com/">
+        <meta property="twitter:title" content="Minecraft Server IPs">
+        <meta property="twitter:description" content="">
+        <meta property="twitter:image" content="https://wedoaliltrollin.com/images/iplists.png">
+
 
 </head>
 
